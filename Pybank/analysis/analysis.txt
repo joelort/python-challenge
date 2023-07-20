@@ -1,0 +1,7 @@
+Financial Analysis
+_________________________
+Total of months: 86
+Total: $22564198.0
+Average change: (this is not right): $262374.3953488372
+Greatest increase in profits: ['Mar-13', '1141840']
+Greatest decrease in profits: ['Dec-10', '-1194133']
